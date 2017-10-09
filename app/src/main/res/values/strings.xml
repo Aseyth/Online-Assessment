@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Barcode-test-ung</string>
+    <string name="scan">Search</string>
+    <string name="hint_barcode_number">Barcode number</string>
+    <string name="name">Name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="for_100_g_100_ml">Energy for 100 g / 100 ml</string>
+    <string name="per_serving">Energy per serving</string>
+    <string name="history">History</string>
+    <string name="no_history">There is no history available</string>
+    <string name="name_not_available">name not available</string>
+    <string name="ingredient_na">ingredients not available</string>
+    <string name="energy_value_na">energy value not available</string>
+    <string name="energy_serving_na">energy per serving not available</string>
+    <string name="no_product">There is no product for this query</string>
+    <string name="search_failed">Search failed</string>
+    <string name="barcode_empty">Barcode number is empty</string>
+</resources>
